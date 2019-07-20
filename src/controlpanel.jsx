@@ -4,7 +4,6 @@ import { Col, Row, Empty, message, Button, Layout, Menu, Breadcrumb, Icon, Switc
 import Snapshots from "./snapshots"
 import Graph from "./graph"
 import Degrees from "./degrees"
-import WYP from "./WYP.svg"
 class Controlpanel extends React.Component {
     constructor(props) {
         super(props)
